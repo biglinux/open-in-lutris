@@ -1,0 +1,4 @@
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
+f53f7e3ca0b589446882fce3d1242451  DEBIAN/control
+fbf25d1172206c7a87afb455a023693a  usr/share/applications/open-in-lutris.desktop
+047ce26202692df3b0a3e0820b337302  usr/share/mime/packages/open-in-lutris.xml

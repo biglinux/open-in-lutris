@@ -1,0 +1,10 @@
+Package: open-in-lutris
+Version: 1.0.0-1big1
+Depends: lutris, liblcms2-2:i386
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:16
+Description: Just to open .lutris files in lutris app, and add some dependencies to more compatibility
+

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Install using Lutris
+Name[pt]=Instalar utilizando o Lutris
+Name[es]=Instalar con Lutris
+Exec=lutris -i
+Terminal=false
+Icon=lutris
+Type=Application
+NoDisplay=true
+MimeType=application/x-lutris;
